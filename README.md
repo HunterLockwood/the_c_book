@@ -2,7 +2,7 @@ Inspired by a late night in the old house, up deep in the woods, in a place wher
 
 # Workflow So Far
 
-1. Read a little.
+1. Read a little bit of Kernighan & Ritchie.
 2. Find a program that sounds interesting.
 3. Write the program.
 4. Compile it using `clang`
